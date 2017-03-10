@@ -338,7 +338,7 @@ pre {
 #fh5co-work .fh5co-work-item .fh5co-overlay-text,
 #fh5co-work .fh5co-work-item .fh5co-overlay-bg {
   position: absolute;
-  opacity: 0;
+  opacity: 1;
 }
 #fh5co-work .fh5co-work-item .fh5co-overlay-bg {
   background: rgba(255, 255, 255, 0.9);
